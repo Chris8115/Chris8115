@@ -42,6 +42,9 @@ Backend Software Engineer building scalable, AI-powered systems.
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+### LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/Chris8115?theme=light&font=Akshar&ext=heatmap)
+
 ## Currently
 Architecting and maintaining an AI-driven ACSL exam prep platform in production, supporting thousands of questions with real-time grading and progress tracking.
 
